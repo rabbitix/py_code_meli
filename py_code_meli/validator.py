@@ -1,6 +1,10 @@
 
 
 def validate_meli_code(value: str) -> bool:
+    """
+    To see how the algorithem works, see http://www.aliarash.com/article/codemeli/codemeli.htm
+    
+    """
     if not len(value) == 10:
         # raise ValueError("کد ملی باید ۱۰ رقم باشد.")
         return False

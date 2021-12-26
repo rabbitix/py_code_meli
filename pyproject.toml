@@ -1,13 +1,13 @@
 [tool.poetry]
 name = "py_code_meli"
-version = "0.1.2"
+version = "0.1.3"
 description = "This python package gives you a simple method that you can validate code meli (Iranian National Code) with it."
 authors = ["ali <lmntrix.afr@gmail.com>"]
 license = "MIT" 
 readme = "README.md"
 homepage = "https://github.com/rabbitix/py_code_meli"
 repository = "https://github.com/rabbitix/py_code_meli"
-keywords = ["python","code meli"]
+keywords = ["python","code meli","code_meli"]
 classifiers = [
     "Topic :: Software Development :: Libraries :: Python Modules"
 ]
